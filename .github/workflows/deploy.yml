@@ -32,13 +32,6 @@ jobs:
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
-      # .env.production 파일 생성
-      - name: Create .env file
-        run: |
-          jq -r 'to_entries|map("\(.key)=\(.value|tostring)")|.[]' <<< "$SECRETS_CONTEXT" > .env.production
-        env:
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
-
       # 도커 이미지 빌드 및 배포
       - name: Build and push Docker image
         uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
@@ -55,9 +48,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Rename docker compose file
-        run: cp docker-compose.yml docker-compose.yml
 
       - name: Copy docker compose to Server
         uses: appleboy/scp-action@master
