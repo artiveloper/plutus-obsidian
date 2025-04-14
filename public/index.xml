@@ -6,16 +6,34 @@
       <description>최근 10 건 on 플루투스</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
+    <title>환영합니다!</title>
+    <link>https://quartz.jzhao.xyz/%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!</link>
+    <guid>https://quartz.jzhao.xyz/%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!</guid>
+    <description>새로운 보관함입니다. 내용을 한번 적어보세요, create a link, 혹은 임포터를 사용해봐도 좋습니다! 준비가 됐다면 이 노트를 삭제하고 맞춤형 보관함을 만들어보세요.</description>
+    <pubDate>Mon, 14 Apr 2025 07:20:00 GMT</pubDate>
+  </item><item>
+    <title>2025.04</title>
+    <link>https://quartz.jzhao.xyz/%EC%A6%9D%EC%8B%9C-%EC%BA%98%EB%A6%B0%EB%8D%94/2025.04</link>
+    <guid>https://quartz.jzhao.xyz/%EC%A6%9D%EC%8B%9C-%EC%BA%98%EB%A6%B0%EB%8D%94/2025.04</guid>
+    <description>04.01 04.02.</description>
+    <pubDate>Mon, 14 Apr 2025 07:13:11 GMT</pubDate>
+  </item><item>
+    <title>25.04.11. 특징주</title>
+    <link>https://quartz.jzhao.xyz/%EB%89%B4%EC%8A%A4-%EC%A0%95%EB%A6%AC/%ED%8A%B9%EC%A7%95%EC%A3%BC/25.04.11.-%ED%8A%B9%EC%A7%95%EC%A3%BC</link>
+    <guid>https://quartz.jzhao.xyz/%EB%89%B4%EC%8A%A4-%EC%A0%95%EB%A6%AC/%ED%8A%B9%EC%A7%95%EC%A3%BC/25.04.11.-%ED%8A%B9%EC%A7%95%EC%A3%BC</guid>
+    <description>[특징주] DN오토모티브, 美행동주의펀드 지분매입 추진에 5%대 강세 미국 행동주의 펀드 블루오카캐피털이 보고서를 통해 DN오토모티브 지분 매입 계획을 밝힌 데 따른 것으로 풀이된다.</description>
+    <pubDate>Fri, 11 Apr 2025 09:05:07 GMT</pubDate>
+  </item><item>
+    <title>틀</title>
+    <link>https://quartz.jzhao.xyz/%EC%A2%85%EB%AA%A9/templates/%ED%8B%80</link>
+    <guid>https://quartz.jzhao.xyz/%EC%A2%85%EB%AA%A9/templates/%ED%8B%80</guid>
+    <description> 기업개요 종목 기본 정보 뉴스 히스토리 관련 테마 연혁 주주현황 사업 현황 영업 활동 현황 재무 활동 현황 .</description>
+    <pubDate>Thu, 10 Apr 2025 03:19:19 GMT</pubDate>
+  </item><item>
+    <title>플루투스 소개</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 09 Apr 2025 07:17:37 GMT</pubDate>
-  </item><item>
-    <title>2025.04.09 일일리포트</title>
-    <link>https://quartz.jzhao.xyz/%EC%9D%BC%EC%9D%BC-%EB%A6%AC%ED%8F%AC%ED%8A%B8/2025.04.09-%EC%9D%BC%EC%9D%BC%EB%A6%AC%ED%8F%AC%ED%8A%B8</link>
-    <guid>https://quartz.jzhao.xyz/%EC%9D%BC%EC%9D%BC-%EB%A6%AC%ED%8F%AC%ED%8A%B8/2025.04.09-%EC%9D%BC%EC%9D%BC%EB%A6%AC%ED%8F%AC%ED%8A%B8</guid>
-    <description>1.</description>
+    <description> Site Navigation You can use the links at the top of every page to get started on the most important parts of the Notkesto.</description>
     <pubDate>Wed, 09 Apr 2025 07:17:37 GMT</pubDate>
   </item><item>
     <title>솔트룩스(065500)</title>
@@ -34,6 +52,12 @@
     <link>https://quartz.jzhao.xyz/%EC%A2%85%EB%AA%A9/%ED%98%95%EC%A7%80I-and-C(011080)</link>
     <guid>https://quartz.jzhao.xyz/%EC%A2%85%EB%AA%A9/%ED%98%95%EC%A7%80I-and-C(011080)</guid>
     <description>이재명 1. 기업 개요 인공지능(AI)·빅데이터 전문 업체.</description>
+    <pubDate>Wed, 09 Apr 2025 07:17:37 GMT</pubDate>
+  </item><item>
+    <title>2025.04.09 일일리포트</title>
+    <link>https://quartz.jzhao.xyz/%EC%9D%BC%EC%9D%BC-%EB%A6%AC%ED%8F%AC%ED%8A%B8/2025.04.09-%EC%9D%BC%EC%9D%BC%EB%A6%AC%ED%8F%AC%ED%8A%B8</link>
+    <guid>https://quartz.jzhao.xyz/%EC%9D%BC%EC%9D%BC-%EB%A6%AC%ED%8F%AC%ED%8A%B8/2025.04.09-%EC%9D%BC%EC%9D%BC%EB%A6%AC%ED%8F%AC%ED%8A%B8</guid>
+    <description>1.</description>
     <pubDate>Wed, 09 Apr 2025 07:17:37 GMT</pubDate>
   </item>
     </channel>
